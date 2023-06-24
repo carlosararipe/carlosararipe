@@ -1,6 +1,6 @@
 👋 Salut, Je suis @carlosararipe
 👀 Je travaille actuellement avec le support informatique.
-🌱 j'étudie Python!
+🌱 J'étudie Python!
 💞️ Future Full Stack!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosararipe&show_icons=true&theme=radical)
