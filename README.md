@@ -1,6 +1,6 @@
-👋 Salut, Je suis @carlosararipe
-👀 Je travaille actuellement avec Systems Analyst.
-🌱 J'étudie Python et Javascript!
+👋 Olá, sou @carlosararipe
+👀 Systems Analyst.
+🌱 Python e Javascript!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosararipe&show_icons=true&theme=radical)
